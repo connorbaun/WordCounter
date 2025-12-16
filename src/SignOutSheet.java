@@ -18,10 +18,10 @@ public class SignOutSheet {
                 "Abby Tyler", "Bill Jackson", "Donald Romero", "Penny Tenormen", "Alan Wong", "Chris Abramson",
                 "Chrissy Webster", "Freddie Becker", "Christine Alanson", "Abby Tyler", "Cameron Carsen",
                 "Cole Malinos", "Juan Perido", "Jordan Gerhart", "Sarah Petersen", "Alex Grey", "Robbie Redstone",
-                "Carl Santiago", "Allie Thompson", "Ella Bell", "Phillip Pendleton", "DJ Yu", "Daniel Stone", "Vivian Helm",
+                "Carl Santiago", "Allie Thompson", "Ella Bell", "Phillip Pendleton", "DJ Red", "Daniel Stone", "Vivian Helm",
                 "Chris Abramson", "Christian Rapino", "Jessie Smith", "Kelly Derrickson", "Dennis Merton", "Pete Wilson",
                 "Louis Lopez", "Nicholas Tremano", "Phil Parkinson", "Bill Jackson", "Steven Austen", "Carol Stanford",
-                "Alexis DeSantos", "Derek Xavier", "Jason Baker", "Jessie Smith", "Alex Peterson"
+                "Alexis DeSantos", "Derek Xavier", "Jason Baker", "Jessie Smith", "Alex Peterson", "DJ Horst"
         };
 
 
