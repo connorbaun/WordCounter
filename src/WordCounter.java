@@ -25,15 +25,10 @@ public class WordCounter {
         System.out.println(wordCount);
 
 
-
-
         //add your code below:
 
 
+
     }
-
-
-
-
 
 }
