@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 
 public class WordCounter {
@@ -16,10 +17,19 @@ public class WordCounter {
         //add all the words to the HashMap
         //if a word is already in the HashMap and we see it come up again, increment its Integer value.
         for (String word : words) {
+            word = word.toLowerCase(); //make words all lowercase to prevent 'The' and 'the' from being counted as 2 different words
             wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
         }
 
+        //print out all keys and their values
         System.out.println(wordCount);
+
+
+
+
+        //add your code below:
+
+
     }
 
 
